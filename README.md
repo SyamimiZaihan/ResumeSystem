@@ -61,6 +61,6 @@ CREATE DATABASE resume_system;
 5. Click Done to return to the main page.
 
 👩‍💻 Author
-Name: Nurizzati Syamimi Binti Zaihan
-Project: Resume Generator System
-Purpose: Tenchnical Assessment for Internship
+- Name: Nurizzati Syamimi Binti Zaihan
+- Project: Resume Generator System
+- Purpose: Tenchnical Assessment for Internship
